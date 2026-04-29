@@ -1,2 +1,3 @@
 # GradeS
 
+PROGRAM OF DEGREE
